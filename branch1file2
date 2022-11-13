@@ -1,0 +1,4 @@
+void print()
+{
+	cout<<"student information"<<getInfo();
+}
