@@ -2,4 +2,8 @@
 void main()
 {
 	clrscr();
+	int id;
+	cout<<"Please Enter the student ID";
+	cin>>id;
+	
 }
