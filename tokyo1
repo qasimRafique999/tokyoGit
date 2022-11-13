@@ -19,6 +19,11 @@ public class student
 			return ph;
 		
 		}
+		void setId(int id)
+		{
+			this.id=id;
+		}
+
 void main()
 {
 	clrscr();
