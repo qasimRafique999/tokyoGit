@@ -1,4 +1,24 @@
 #include<iostream.h>
+public class student
+{
+	int id, ph;
+	String name;
+	
+	public:
+		String getname()
+		{
+			return name;
+		}
+		int getId()
+		{
+			return id;
+		}
+		int getPh()
+		{
+
+			return ph;
+		
+		}
 void main()
 {
 	clrscr();
